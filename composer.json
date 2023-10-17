@@ -1,0 +1,19 @@
+{
+    "name": "wombat/filterphp",
+    "description": "This is a element filter for php. It adds new elements to the existing html",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wombat\\Filterphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roy Vermeulen",
+            "email": "roywilliamvermeulen@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
