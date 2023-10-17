@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace FilterPHP;
+namespace wombat\filterphp;
 
 class HTMLFilter
 {
