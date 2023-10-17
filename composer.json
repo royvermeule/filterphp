@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Wombat\\Filterphp\\": "src/"
+            "Wombat\\Filterphp\\": ["src/", "src/FilterCSS/", "src/FilterHTML/"]
         }
     },
     "authors": [

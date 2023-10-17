@@ -2,9 +2,7 @@
 
 declare(strict_types=1);
 
-namespace FilterPHP;
-
-use DOMDocument;
+namespace Wombat\Filterphp;
 
 class Filter
 {
